@@ -1,5 +1,5 @@
 // dependency injection / importing
-const capitalize = require('./capitilize.js');
+const capitalize = require('./capitlize');
 
 describe('As a User I want a way to capitalize my strings', () => {
 

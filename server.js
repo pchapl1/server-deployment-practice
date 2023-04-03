@@ -1,7 +1,7 @@
 'use strict';
 
 const express = require('express');
-const capitalize = require('./capitalize/capitilize');
+const capitalize = require('./capitalize/capitlize');
 const cors = require('cors');
 
 const app = express(); // singleton
