@@ -1,8 +1,8 @@
 # server-deployment-practice
 
 render link : https://server-deployment-practice-d13g.onrender.com/
-github actions: 
-pull request: 
+github actions: https://github.com/pchapl1/server-deployment-practice/actions
+pull request: https://github.com/pchapl1/server-deployment-practice/pull/1
 
 # Node Ecosystem, TDD, CI/CD
 
